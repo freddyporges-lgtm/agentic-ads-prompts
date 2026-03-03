@@ -37,7 +37,7 @@ The `agent-workflows/` folder contains more structured workflows designed for Cl
 
 ## Contributing
 
-These prompts improve with use. If you work in ad tech and have a prompt that's saved you real time, open a PR. The goal is a library that reflects how this industry actually operates, not how it's described in textbooks.
+These prompts improve with use. If you work in ad tech and have a prompt that's saved you real time, open a PR. The goal is a library that reflects how this industry actually operates, not how it's described in protocols.
 
 ---
 
